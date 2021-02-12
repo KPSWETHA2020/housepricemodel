@@ -253,6 +253,12 @@ def HouseModelPrediction(request):
 
 ![output](./static/img/s1.PNG)
 
+## CODE VALIDATION REPORT:
+
+![output](./static/img/s3.PNG)
+
+![output](./static/img/s4.PNG)
+
 
 ## RESULT:
 Thus a website is designed to train the house price model and to predict the price and is hosted in the URL http://swetha.student.saveetha.in:8000/HouseModelTraining/ and http://swetha.student.saveetha.in:8000/HouseModelPrediction/ HTML code is validated.
